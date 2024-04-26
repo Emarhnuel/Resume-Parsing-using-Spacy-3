@@ -22,8 +22,8 @@ pip install spacy spacy-transformers
 
 ## To Run in Google Colab
 
-1) * Create a new Colab notebook.
-Install the required libraries using !pip install ...
+* Create a new Colab notebook.
+* Install the required libraries using `!pip install ...`
 Copy and paste the example code, replacing the sample resume text with your own.
 Next Steps
 Experiment with different Spacy models.

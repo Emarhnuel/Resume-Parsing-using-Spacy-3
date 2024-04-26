@@ -18,11 +18,11 @@ This project demonstrates how to extract relevant information from resumes (CVs)
 
 ```bash
 pip install spacy spacy-transformers 
-
+```
 
 ## To Run in Google Colab
 
-* Create a new Colab notebook.
+1) * Create a new Colab notebook.
 Install the required libraries using !pip install ...
 Copy and paste the example code, replacing the sample resume text with your own.
 Next Steps

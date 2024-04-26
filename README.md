@@ -24,8 +24,9 @@ pip install spacy spacy-transformers
 
 * Create a new Colab notebook.
 * Install the required libraries using `!pip install ...`
-Copy and paste the example code, replacing the sample resume text with your own.
-Next Steps
-Experiment with different Spacy models.
-Explore custom NER training to tailor entity extraction.
-Consider creating output formats (JSON, CSV) for integration with other systems.
+* Copy and paste the example code, replacing the sample resume text with your own.
+
+## Next Steps
+* Experiment with different Spacy models.
+* Explore custom NER training to tailor entity extraction.
+* Consider creating output formats (JSON, CSV) for integration with other systems.
